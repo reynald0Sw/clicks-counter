@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/clicks-counter/static/css/main.319e5195.css",
+    "main.js": "/clicks-counter/static/js/main.43156ee1.js",
+    "static/media/Perona.jpeg": "/clicks-counter/static/media/Perona.75c9e2208cfc4552ddb8.jpeg",
+    "index.html": "/clicks-counter/index.html",
+    "main.319e5195.css.map": "/clicks-counter/static/css/main.319e5195.css.map",
+    "main.43156ee1.js.map": "/clicks-counter/static/js/main.43156ee1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.319e5195.css",
+    "static/js/main.43156ee1.js"
+  ]
+}
