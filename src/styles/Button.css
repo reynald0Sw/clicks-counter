@@ -1,0 +1,29 @@
+.button-container {
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  flex: 1;
+  max-width: 250px;
+  height: auto;
+  font-size: 4vw;
+  font-family: Roboto, sans-serif;
+  font-weight: bold;
+  border: 2px solid white;
+  border-radius: 15px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: lightslategray;
+}
+
+.click-button {
+  background-color: rgb(170, 20, 102);
+}
+
+.reset-button {
+  background-color: #5a01a7;
+}
